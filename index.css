@@ -220,3 +220,14 @@
     width: 80%;
     margin-top: 5%;
 }
+
+#cont{
+    border: 5px solid red;
+    height: 300px;
+    width: 80%;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+
+}
+
