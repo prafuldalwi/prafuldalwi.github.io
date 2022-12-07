@@ -228,6 +228,18 @@
     display: flex;
     margin: auto;
     justify-content: center;
+    background-color: black;
+    
+}
 
+#linked{
+    padding: 20px;
+    margin-top: 100%;
+    
+}
+
+#github{
+    padding: 20px;
+    margin-top: 105%;
 }
 
