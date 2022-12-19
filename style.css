@@ -238,7 +238,7 @@ section .title span::after{
 }
 .about .left img{
   height: 400px;
-  width: 400px;
+  width: 300px;
   object-fit: cover;
   border-radius: 12px;
 }
@@ -553,7 +553,7 @@ footer .text span a:hover{
     background: url("images/devguy3.gif") no-repeat;
     /* background-size: cover; */
     
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
     font-family: 'Ubuntu', sans-serif;
     background-position:right
   }
@@ -598,7 +598,7 @@ footer .text span a:hover{
 @media (max-width: 900px) {
   .about .left img{
     height: 350px;
-    width: 350px;
+    width: 300px;
   }
   .home{
     height: 100vh;
