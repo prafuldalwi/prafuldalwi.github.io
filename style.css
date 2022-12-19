@@ -411,15 +411,18 @@ ul li{
 }
 .button >button>a{
   color:white;
+  
 }
 .button a:hover{
-  color:#4756df
+  color:#4756df;
 }
 .link a{
-  /* border: 1px solid black; */
+
+  border: 1px solid grey;
+  border-radius: 10px;
   color: black;
   font-weight: bold;
-  padding: 5px;
+  padding: 7px;
   background-color:white;
   font-size: 20px;
   
